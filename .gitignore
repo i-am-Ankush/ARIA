@@ -1,0 +1,11 @@
+.env
+.env.*
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+aria.db*
+*.wav
+*.aiff
+node_modules/
+dist/

@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+razorpay
+xgboost
+scikit-learn
+shap
+pandas
+numpy
+openai
+python-dotenv
+requests
+httpx
+websockets
